@@ -10,12 +10,12 @@ class Admin extends BaseController
 {
     public function __construct()
     {
-        $this->validation = \Config\Services::validation();
+        // $this->validation = \Config\Services::validation();
         $session = \Config\Services::session();
         
         // $this->m_id = new TransaksiModel();
 
-        $this->validation = \Config\Services::validation();
+        // $this->validation = \Config\Services::validation();
         helper("cookie");//remember password, password disimpan di cookie
         helper("global_fungsi_helper");//kirim email di bagian APP/Helper
         helper('url');
