@@ -1,5 +1,4 @@
     <main class="main">
-
         <!-- Hero Section -->
         <section id="hero" class="hero section dark-background" background-color="#0d4bf0">
             <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -42,7 +41,6 @@
 
         <!-- Services Section -->
         <section id="services" class="services section">
-
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>PT. Rivendra Gagak Sipat Perkasa</h2>
@@ -141,7 +139,6 @@
             </div><!-- End Section Title -->
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
-
                 <div class="team-slider swiper init-swiper">
                     <script type="application/json" class="swiper-config">
                     {
@@ -175,10 +172,11 @@
                     }
                     </script>
                     <div class="swiper-wrapper">
+                        <!-- Kelas V -->
                         <div class="swiper-slide">
                             <div class="team-card">
                                 <div class="team-image">
-                                    <!-- <img src="asset/img/person/person-m-3.webp" class="img-fluid" alt="" loading="lazy"> -->
+                                    <img src="asset/img/product/Cover Koding dan KA Kls 5.jpeg" class="img-fluid" alt="" loading="lazy">
                                     <div class="team-overlay">
                                         <div class="social-links">
                                             <!-- <a href="#"><i class="bi bi-twitter-x"></i></a>
@@ -188,19 +186,95 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="team-content">
-                                    <h3>Produk A</h3>
-                                    <!-- <span>Chief Technology Officer</span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus
-                                        nec ullamcorper mattis.</p> -->
+                                <div class="team-content" style="text-align: left;">
+                                    <h3>Kelas V</h3>
+                                    <span></span>
+                                    <table>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td>Judul Buku<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>Koding dan Kecerdasan Artifisial (KA) untuk SD/MI Kelas V<td>
+                                        </tr>
+                                        <tr>
+                                            <td>Penulis<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>Candra Yanu Wardhana<td>
+                                        </tr>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td>Jumlah halaman<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>208<td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ukuran buku<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>21 x 29,7 cm<td>
+                                        </tr>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td>Harga<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>dalam proses pengajuan HET<td>
+                                        </tr>
+                                        <tr>
+                                            <td>ISBN<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>dalam proses<td>
+                                        </tr>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td style ="vertical-align: top;">Sinopsis<td>
+                                            <td style ="vertical-align: top;">:<td>
+                                            <td><td>
+                                            <td>Pemahaman tentang koding dan kecerdasan artifisial (KKA) dapat meningkatkan kemampuan berpikir logis, pemecahan masalah, analisis kritis, kreativitas, dan inovasi siswa. Prosesnya melatih siswa untuk berpikir secara sistematis dan terstruktur.
+                                                <br><br>
+                                                Buku <i>Koding dan Kecerdasan Artifisial untuk SD/MI Kelas V</i> ini diterbitkan sebagai buku teks pendamping pembelajaran bagi siswa untuk mata pelajaran Koding dan Kecerdasan Artifisial (KKA). Adapun materi yang dipelajari di buku ini sebagai berikut. 
+                                                <br>
+                                                <table>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">1.<td>
+                                                        <td><td>
+                                                        <td>Pemecahan Masalah dan Berpikir Komputasional<td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">2.<td>
+                                                        <td><td>
+                                                        <td>Teknologi Digital dan Sistem Komputer<td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">3.<td>
+                                                        <td><td>
+                                                        <td>Kecerdasan Artifisial (KA)<td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">4.<td>
+                                                        <td><td>
+                                                        <td>Klasifikasi Kecerdasan Artifisial<td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">5<td>
+                                                        <td><td>
+                                                        <td>Peran Data dalam Menentukan Hasil Klasifikasi KA<td>
+                                                    </tr>
+                                                </table>
+                                                <br>
+                                                Melalui buku ini, siswa dikenalkan dan disadarkan tentang peran teknologi di kehidupan. Namun demikian, ada kekhawatiran jika tidak dirancang dengan baik, pembelajaran KKA dapat membuat siswa menjadi malas berpikir atau terlalu bergantung pada teknologi. Oleh karena itu, siswa diajak untuk mengenal dan memahami koding dan kecerdasan artifisial di buku ini. Pada akhirnya, siswa dapat menggunakan pengetahuan dan keterampilannya di bidang koding dan kecerdasan artifisial dengan tepat dan bermanfaat luas.
+                                            <td>
+                                        </tr>
+                                    </table>
                                 </div>
                             </div>
                         </div>
 
+                        <!-- Kelas VII -->
                         <div class="swiper-slide">
                             <div class="team-card">
                                 <div class="team-image">
-                                    <!-- <img src="asset/img/person/person-f-5.webp" class="img-fluid" alt="" loading="lazy"> -->
+                                    <img src="asset/img/product/Cover Koding dan KA Kls 7.jpeg" class="img-fluid" alt="" loading="lazy">
                                     <div class="team-overlay">
                                         <div class="social-links">
                                             <!-- <a href="#"><i class="bi bi-twitter-x"></i></a>
@@ -210,19 +284,90 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="team-content">
-                                    <h3>Produk B</h3>
-                                    <!-- <span>Product Designer</span>
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                        fugiat nulla pariatur.</p> -->
+                                <div class="team-content" style="text-align: left;">
+                                    <h3>Kelas VII</h3>
+                                    <span></span>
+                                    <table>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td>Judul Buku<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>Koding dan Kecerdasan Artifisial (KA) untuk SMP/MTs Kelas VII<td>
+                                        </tr>
+                                        <tr>
+                                            <td>Penulis<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>Candra Yanu Wardhana<td>
+                                        </tr>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td>Jumlah halaman<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>224<td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ukuran buku<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>17,6 x 25 cm<td>
+                                        </tr>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td>Harga<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>dalam proses pengajuan HET<td>
+                                        </tr>
+                                        <tr>
+                                            <td>ISBN<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>dalam proses<td>
+                                        </tr>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td style ="vertical-align: top;">Sinopsis<td>
+                                            <td style ="vertical-align: top;">:<td>
+                                            <td><td>
+                                            <td>Pembelajaran koding dan kecerdasan artifisial (KKA) dipandang sebagai bagian penting dari literasi digital. Dengan pembelajaran KKA, siswa dapat memahami cara kerja teknologi dan menjadi konsumen informasi yang cerdas dan bertanggung jawab.
+                                                <br><br>
+                                                Buku <i>Koding dan Kecerdasan Artifisial untuk SMP/MTs Kelas VII</i> ini diterbitkan sebagai buku teks pendamping pembelajaran bagi siswa untuk mata pelajaran Koding dan Kecerdasan Artifisial (KKA). Adapun materi yang dipelajari di buku ini sebagai berikut. 
+                                                <br>
+                                                <table>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">1.<td>
+                                                        <td><td>
+                                                        <td>Berpikir komputasional<td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">2.<td>
+                                                        <td><td>
+                                                        <td>Literasi Digital<td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">3.<td>
+                                                        <td><td>
+                                                        <td>Literasi dan Etika Kecerdasan Artifisial<td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">4.<td>
+                                                        <td><td>
+                                                        <td>Pemanfaatan dan Pengembangan Kecerdasan Artifisial<td>
+                                                    </tr>
+                                                </table>
+                                                <br>
+                                                Siswa akan memahami peran teknologi di kehidupan sekitar mereka melalui buku ini. Aktivitas pembelajaran di buku ini mengajak siswa agar tidak malas berpikir meskipun tersedia kemudahan dengan adanya teknologi. Melalui buku ini, siswa juga akan lebih mengenal dan memahami koding dan kecerdasan artifisial. Dengan demikian, siswa dapat menggunakan pengetahuan dan keterampilannya dengan tepat dan bermanfaat luas berbekal koding dan kecerdasan artifisial.
+                                            <td>
+                                        </tr>
+                                    </table>
                                 </div>
                             </div>
                         </div>
 
+                        <!-- Kelas X -->
                         <div class="swiper-slide">
                             <div class="team-card">
                                 <div class="team-image">
-                                    <!-- <img src="asset/img/person/person-m-8.webp" class="img-fluid" alt="" loading="lazy"> -->
+                                    <img src="asset/img/product/Cover Koding dan KA Kls 10.jpeg" class="img-fluid" alt="" loading="lazy">
                                     <div class="team-overlay">
                                         <div class="social-links">
                                             <!-- <a href="#"><i class="bi bi-twitter-x"></i></a>
@@ -232,19 +377,90 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="team-content">
-                                    <h3>Produk C</h3>
-                                    <!-- <span>Marketing Specialist</span>
-                                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                                        deserunt mollit anim id est laborum.</p> -->
+                                <div class="team-content" style="text-align: left;">
+                                    <h3>Kelas X</h3>
+                                    <span></span>
+                                    <table>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td>Judul Buku<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>Koding dan Kecerdasan Artifisial (KA) untuk SMA/MA/SMK/MAK Kelas X<td>
+                                        </tr>
+                                        <tr>
+                                            <td>Penulis<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>Candra Yanu Wardhana<td>
+                                        </tr>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td>Jumlah halaman<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>288<td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ukuran buku<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>17,6 x 25 cm<td>
+                                        </tr>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td>Harga<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>dalam proses pengajuan HET<td>
+                                        </tr>
+                                        <tr>
+                                            <td>ISBN<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>dalam proses<td>
+                                        </tr>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td style ="vertical-align: top;">Sinopsis<td>
+                                            <td style ="vertical-align: top;">:<td>
+                                            <td><td>
+                                            <td>Pembelajaran koding dan kecerdasan artifisial dianggap sebagai bekal penting bagi generasi muda untuk menghadapi era digital dan Industri 4.0, bahkan Masyarakat 5.0. Keterampilan ini juga dipandang relevan untuk berbagai sektor pekerjaan di masa depan.
+                                                <br><br>
+                                                Buku <i>Koding dan Kecerdasan Artifisial untuk SMA/MA/SMK/MAK Kelas X</i> ini diterbitkan sebagai buku teks pendamping pembelajaran bagi siswa untuk mata pelajaran Koding dan Kecerdasan Artifisial (KKA). Adapun materi yang dipelajari di buku ini sebagai berikut. 
+                                                <br>
+                                                <table>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">1.<td>
+                                                        <td><td>
+                                                        <td>Pemrograman sebagai Alat Pemecahan Masalah Kompleks<td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">2.<td>
+                                                        <td><td>
+                                                        <td>Konsep dan Pengolahan Basis Data<td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">3.<td>
+                                                        <td><td>
+                                                        <td>Pemanfaatan AI dalam Pengembangan dan Evaluasi Konten Multimedia <td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">4.<td>
+                                                        <td><td>
+                                                        <td>Pemanfaatan Kecerdasan Artifisial dalam Pengenalan Pola dan Pengembangan Sistem<td>
+                                                    </tr>
+                                                </table>
+                                                <br>
+                                                Pembelajaran KKA dengan menggunakan buku ini diharapkan dapat mengubah siswa dari sekadar pengguna teknologi menjadi pencipta teknologi, seperti mengembangkan aplikasi hingga robot sederhana. Pembelajaran KAA dengan buku ini juga sering dilakukan secara kolaboratif sehingga dapat meningkatkan kemampuan siswa dalam bekerja sama, berkomunikasi, dan menghargai ide orang lain.
+                                            <td>
+                                        </tr>
+                                    </table>
                                 </div>
                             </div>
                         </div>
 
+                        <!-- Kelas XI -->
                         <div class="swiper-slide">
                             <div class="team-card">
                                 <div class="team-image">
-                                    <!-- <img src="asset/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy"> -->
+                                    <img src="asset/img/product/Cover Koding dan KA Kls 11.jpeg" class="img-fluid" alt="" loading="lazy">
                                     <div class="team-overlay">
                                         <div class="social-links">
                                             <!-- <a href="#"><i class="bi bi-twitter-x"></i></a>
@@ -254,33 +470,81 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="team-content">
-                                    <h3>Produk D</h3>
-                                    <!-- <span>Lead Developer</span>
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                                        doloremque laudantium.</p> -->
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="team-card">
-                                <div class="team-image">
-                                    <!-- <img src="asset/img/person/person-m-12.webp" class="img-fluid" alt="" loading="lazy"> -->
-                                    <div class="team-overlay">
-                                        <div class="social-links">
-                                            <!-- <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                            <a href="#"><i class="bi bi-facebook"></i></a>
-                                            <a href="#"><i class="bi bi-instagram"></i></a>
-                                            <a href="#"><i class="bi bi-linkedin"></i></a> -->
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="team-content">
-                                    <h3>Produk E</h3>
-                                    <!-- <span>UI/UX Designer</span>
-                                    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed
-                                        quia consequuntur magni.</p> -->
+                                <div class="team-content" style="text-align: left;">
+                                    <h3>Kelas XI</h3>
+                                    <span></span>
+                                    <table>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td>Judul Buku<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>Koding dan Kecerdasan Artifisial (KA) untuk SMA/MA/SMK/MAK Kelas XI<td>
+                                        </tr>
+                                        <tr>
+                                            <td>Penulis<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>Candra Yanu Wardhana<td>
+                                        </tr>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td>Jumlah halaman<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>264<td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ukuran buku<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>17,6 x 25 cm<td>
+                                        </tr>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td>Harga<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>dalam proses pengajuan HET<td>
+                                        </tr>
+                                        <tr>
+                                            <td>ISBN<td>
+                                            <td>:<td>
+                                            <td><td>
+                                            <td>dalam proses<td>
+                                        </tr>
+                                        <tr style="background-color : rgb(217, 216, 216)">
+                                            <td style ="vertical-align: top;">Sinopsis<td>
+                                            <td style ="vertical-align: top;">:<td>
+                                            <td><td>
+                                            <td>Pembelajaran koding dan kecerdasan artifisial dianggap sebagai bekal penting bagi generasi muda untuk menghadapi era digital dan Industri 4.0, bahkan Masyarakat 5.0. Keterampilan ini juga dipandang relevan untuk berbagai sektor pekerjaan di masa depan.
+                                                <br><br>
+                                                Buku <i>Koding dan Kecerdasan Artifisial untuk SMA/MA/SMK/MAK Kelas XI</i> ini diterbitkan sebagai buku teks pendamping pembelajaran bagi siswa untuk mata pelajaran Koding dan Kecerdasan Artifisial (KKA). Adapun materi yang dipelajari di buku ini sebagai berikut. 
+                                                <br>
+                                                <table>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">1.<td>
+                                                        <td><td>
+                                                        <td>Pemecahan Masalah dan Produksi Konten Digital<td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">2.<td>
+                                                        <td><td>
+                                                        <td>Pemrograman dan Pengelolaan Data<td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">3.<td>
+                                                        <td><td>
+                                                        <td>Kecerdasan Artifisial (KA) <td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style ="vertical-align: top;">4.<td>
+                                                        <td><td>
+                                                        <td>Pengembangan dan Implementasi Model AI<td>
+                                                    </tr>
+                                                </table>
+                                                <br>
+                                                Pembelajaran KKA dengan menggunakan buku ini diharapkan dapat mengubah siswa dari sekadar pengguna teknologi menjadi pencipta teknologi, seperti mengembangkan aplikasi hingga robot sederhana. Pembelajaran KAA dengan buku ini juga sering dilakukan secara kolaboratif sehingga dapat meningkatkan kemampuan siswa dalam bekerja sama, berkomunikasi, dan menghargai ide orang lain.
+                                            <td>
+                                        </tr>
+                                    </table>
                                 </div>
                             </div>
                         </div>
