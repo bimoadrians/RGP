@@ -25,6 +25,8 @@
     </head>
 
     <body class="index-page">
+        <header id="header" class="header d-flex align-items-center fixed-top" style="visibility: hidden;">
+        </header>
         <?php
             $kelas5 = site_url("/#team");
         ?>
