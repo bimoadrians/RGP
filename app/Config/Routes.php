@@ -132,6 +132,10 @@ $routes->group('/', ['filter'=> 'auth'], function ($routes) {
 // '/', ['filter'=> 'noauth'], function ($routes)
 $routes->group('/', ['filter'=> 'noauth'], function ($routes) {
     $routes->add('', 'Admin\Admin::main_page');
+    $routes->add('produk_kelas5', 'Admin\Admin::produk_kelas5');
+    $routes->add('produk_kelas7', 'Admin\Admin::produk_kelas7');
+    $routes->add('produk_kelas10', 'Admin\Admin::produk_kelas10');
+    $routes->add('produk_kelas11', 'Admin\Admin::produk_kelas11');
     $routes->add('post_login', 'Admin\Admin::post_login');
     $routes->add('ci4', 'Home::index');
 });

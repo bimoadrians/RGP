@@ -28,4 +28,28 @@ class Admin extends BaseController
         echo view("mainpage/v_main_page", $data);
         echo view("ui/v_footer", $data);
     }
+
+    public function produk_kelas5()
+    {
+        $data = [];
+        echo view("mainpage/v_produk_kelas5", $data);
+    }
+
+    public function produk_kelas7()
+    {
+        $data = [];
+        echo view("mainpage/v_produk_kelas7", $data);
+    }
+
+    public function produk_kelas10()
+    {
+        $data = [];
+        echo view("mainpage/v_produk_kelas10", $data);
+    }
+
+    public function produk_kelas11()
+    {
+        $data = [];
+        echo view("mainpage/v_produk_kelas11", $data);
+    }
 }
