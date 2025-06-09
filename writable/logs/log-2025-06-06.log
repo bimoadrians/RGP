@@ -1,0 +1,40 @@
+CRITICAL - 2025-06-06 23:15:26 --> Invalid file: {0}
+#0 C:\xampp\htdocs\rgp\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mainpage/v_prod...')
+#1 C:\xampp\htdocs\rgp\system\Common.php(1089): CodeIgniter\View\View->render('mainpage/v_prod...', Array, true)
+#2 C:\xampp\htdocs\rgp\app\Controllers\Admin\Admin.php(36): view('mainpage/v_prod...', Array)
+#3 C:\xampp\htdocs\rgp\system\CodeIgniter.php(834): App\Controllers\Admin\Admin->produk_kelas5()
+#4 C:\xampp\htdocs\rgp\system\CodeIgniter.php(421): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\rgp\system\CodeIgniter.php(328): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\rgp\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-06-06 23:16:37 --> Invalid file: {0}
+#0 C:\xampp\htdocs\rgp\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mainpage/v_prod...')
+#1 C:\xampp\htdocs\rgp\system\Common.php(1089): CodeIgniter\View\View->render('mainpage/v_prod...', Array, true)
+#2 C:\xampp\htdocs\rgp\app\Controllers\Admin\Admin.php(36): view('mainpage/v_prod...', Array)
+#3 C:\xampp\htdocs\rgp\system\CodeIgniter.php(834): App\Controllers\Admin\Admin->produk_kelas5()
+#4 C:\xampp\htdocs\rgp\system\CodeIgniter.php(421): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#5 C:\xampp\htdocs\rgp\system\CodeIgniter.php(328): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\rgp\index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-06-06 23:26:23 --> Undefined variable $tambah
+#0 C:\xampp\htdocs\rgp\app\Views\mainpage\v_produk_kelas5.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\rgp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rgp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\rgp\system\Common.php(1089): CodeIgniter\View\View->render('mainpage/v_prod...', Array, true)
+#4 C:\xampp\htdocs\rgp\app\Controllers\Admin\Admin.php(35): view('mainpage/v_prod...', Array)
+#5 C:\xampp\htdocs\rgp\system\CodeIgniter.php(834): App\Controllers\Admin\Admin->produk_kelas5()
+#6 C:\xampp\htdocs\rgp\system\CodeIgniter.php(421): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#7 C:\xampp\htdocs\rgp\system\CodeIgniter.php(328): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\rgp\index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2025-06-06 23:32:15 --> Undefined variable $kelas5
+#0 C:\xampp\htdocs\rgp\app\Views\mainpage\v_main_page.php(280): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 280)
+#1 C:\xampp\htdocs\rgp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\rgp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\rgp\system\Common.php(1089): CodeIgniter\View\View->render('mainpage/v_main...', Array, true)
+#4 C:\xampp\htdocs\rgp\app\Controllers\Admin\Admin.php(28): view('mainpage/v_main...', Array)
+#5 C:\xampp\htdocs\rgp\system\CodeIgniter.php(834): App\Controllers\Admin\Admin->main_page()
+#6 C:\xampp\htdocs\rgp\system\CodeIgniter.php(421): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+#7 C:\xampp\htdocs\rgp\system\CodeIgniter.php(328): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\rgp\index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
